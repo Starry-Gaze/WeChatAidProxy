@@ -12,8 +12,8 @@
 ## npm启动
 
 ```shell
-git clone git@github.com:novicezk/wechat-midjourney.git
-cd wechat-midjourney
+git clone git@github.com:Starry-Gaze/WeChatAidProxy.git
+cd WeChatAidProxy
 npm install
 # 可能执行错误，缺少library，按提示解决
 cp .env.example .env
