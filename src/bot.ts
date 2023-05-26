@@ -54,6 +54,12 @@ export class Bot {
                 + "8.(--seed) 《种子》参数 0-4294967295 可自定义一个数值配合(sameseed)使用\n"
                 + "9.(--sameseed) 《相同种子》参数 0-4294967295 可自定义一个数值配合(seed)使用\n"
                 + "10.(--tile) 《重复模式》参数 空";
+                + "------------------------------\n";
+                + "GPT项目列表\n";
+                + "1.mj绘画API接口：https://mjbot.zijiantty.com/mj/\n";
+                + "2.龙哥GPT网站：https://ai.yunduan.pro/zh\n";
+                + "3.屁哥 GPT 网站：www.lyunai.top\n";
+                + "";
             await room.say(result);
             return;
         }
